@@ -7,7 +7,7 @@ django-celery==3.2.2
 celery-with-redis
 djangorestframework==3.5.3
 djangorestframework-jwt==1.11.0
-paramiko==2.4.1
+paramiko==2.4.2
 Pillow==5.0.0
 python-magic==0.4.15
 django-storages==1.6.5
