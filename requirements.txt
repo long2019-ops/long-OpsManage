@@ -5,7 +5,7 @@ channels==1.1.7
 Celery==3.1.20
 django-celery==3.2.2
 celery-with-redis
-djangorestframework==3.5.3
+djangorestframework==3.11.2
 djangorestframework-jwt==1.11.0
 paramiko==2.4.1
 Pillow==5.0.0
